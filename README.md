@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**🤔Who I am?** a student from Tongji Uni, expected to graduate in 2026.
+**🤔Who I am?** 
+a student from Tongji Uni, expected to graduate in 2026.
 
 **🌱learning**  
 I'm currently learning:
