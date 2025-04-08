@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**🤔Who I am?** a student from Tongji Uni, expected to graduate in 2026.
+
+**🌱learning**
+I'm currently learning:
+- simple-db mit6.5830 coures
+- redis you can see my notes in my github blog
+- spring you can also see my notes in my github blog
+
+I'm planning to learn:
+- os 
+- tcp/ip network model
+- message queue
+
+**contact me**: 
+- 📫mail：2251338@tongji.edu.cn
+- qq: 439403849
