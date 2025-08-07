@@ -50,6 +50,6 @@ I'm currently learning:
 - 《Redis的设计与实现》
 - 《Java并发编程的艺术》
 
-**contact me**: 
+**📱 contact me**: 
 - 📫 mail：2251338@tongji.edu.cn
 - qq: 439403849
