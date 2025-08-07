@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**🤔Who I am?**   
+**🤔 Who I am?**   
 a student from Tongji Uni, expected to graduate in 2026.
 
-**🌱learning**  
+**🌱 learning**  
 I'm currently learning:
 - simple-db mit6.5830 coures ✅
 - redis you can see my notes in my github blog ✅
 - os && computer network
 
-**💻tech stack**
+**💻 tech stack**
 - language
   - js
   - cpp maybe forget a lot
@@ -46,10 +46,10 @@ I'm currently learning:
   - rabbitmq
 
 
-**📖Book**
+**📖 Book**
 - 《Redis的设计与实现》
 - 《Java并发编程的艺术》
 
 **contact me**: 
-- 📫mail：2251338@tongji.edu.cn
+- 📫 mail：2251338@tongji.edu.cn
 - qq: 439403849
